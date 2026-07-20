@@ -5,17 +5,16 @@ url: "https://py1sl.github.io"
 
 # Church contact details (used in footer)
 church:
-  name: St Mary's Church
-  address_line1: Church Lane
-  address_line2: Anytown
-  postcode: AN1 2BC
-  email: info@stmarys.example.org
+  name: St Mary Magdalene Church
+  address_line1: Duns Tew
+  address_line2: Oxfordshire
+  postcode: OX25 6JP
 
 # Event details
 event:
   year: 2027
-  dates: "Saturday 5 & Sunday 6 July 2027"
-  location: St Mary's Church and Churchyard
+  dates: "21st - 23rd May 2027"
+  location: St Mary Magdalene Church, Duns Tew
 
 # Build settings
 markdown: kramdown
